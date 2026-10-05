@@ -1,6 +1,15 @@
 1. Why does Git show these files as untracked?
-	-The files are shown as untracked because they are in your current directory but not tracked anywhers else
+	-The files are shown as untracked because they are in your working directory but not tracked anywheres else
 
 2. What information does git diff provide? 
-	- git diff allows you to see different changes you made and to whatr files
+	- git diff allows you to see different changes you made and to what files
 
+3. What is the purpose of git restore?
+
+	-To restore files when you goof up like me :D
+
+4.
+
+	-(a)un did my changes to other files and commited it
+	-(b) git revert creates a new commit and undoes the changes made by older commits. while git restore 
+	restores files in your working directory
