@@ -1,0 +1,6 @@
+1. Why does Git show these files as untracked?
+	-The files are shown as untracked because they are in your current directory but not tracked anywhers else
+
+2. What information does git diff provide? 
+	- git diff allows you to see different changes you made and to whatr files
+
